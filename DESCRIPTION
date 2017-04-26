@@ -3,7 +3,7 @@ Title: Generate complex heatmaps and PCA plots
 Version: 0.0.0.9000
 Authors@R: person("Naim", "Mahi", email = "mahina@mail.uc.edu", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
-Depends: R (>= 3.3.1), devtools, Biobase, ComplexHeatmap (>=1.13.1), circlize, rgl, rsconnect, pairsD3, rglwidget, RColorBrewer
+Depends: R (>= 3.3.1), devtools, Biobase, ComplexHeatmap (>= 1.13.1), circlize, rgl, rsconnect, pairsD3, rglwidget, RColorBrewer
 Suggests: RMySQL
 License: What license is it under?
 Encoding: UTF-8
